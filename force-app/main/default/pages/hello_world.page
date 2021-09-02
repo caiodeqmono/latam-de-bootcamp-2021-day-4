@@ -1,0 +1,13 @@
+<apex:page >
+
+    <apex:image url="{!$Resource.hello_world}" width="250" />
+
+    <h1 id="header"></h1>
+    
+    Second Change
+
+    <script>
+        let header = document.getElementById('header');
+        header.innerHTML = 'Hello World!';
+    </script>
+</apex:page>

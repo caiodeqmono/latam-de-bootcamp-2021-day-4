@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0055f000000zXrxAAE",
+    "createdByName": "Caio Ono",
+    "createdDate": "2021-09-02T13:07:00.000Z",
+    "fileName": "staticresources/hello_world.resource",
+    "fullName": "hello_world",
+    "id": "0815f000000Y8SMAA0",
+    "lastModifiedById": "0055f000000zXrxAAE",
+    "lastModifiedByName": "Caio Ono",
+    "lastModifiedDate": "2021-09-02T13:07:00.000Z",
+    "manageableState": "unmanaged",
+    "type": "StaticResource"
+  }
+}

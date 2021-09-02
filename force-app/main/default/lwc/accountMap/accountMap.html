@@ -1,0 +1,8 @@
+<template>
+    <lightning-card title={title} icon-name="standard:location">
+        <template if:true={mapMarkersNotEmpty}>
+            <lightning-map map-markers={mapMarkers} zoom-level="15">
+            </lightning-map>
+        </template>
+    </lightning-card>
+</template>

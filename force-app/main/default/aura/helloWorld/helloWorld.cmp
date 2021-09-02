@@ -1,0 +1,9 @@
+<aura:component implements="flexipage:availableForAllPageTypes">
+    <aura:attribute type="String" name="message" default="Hello World!" />
+
+    <lightning:button variant="base" label="Base" title="Base action" onclick="{! c.handleClick }" />
+
+    <img src="{!$Resource.hello_world}" width="200" />
+
+    <h1>{!v.message}</h1>
+</aura:component>
